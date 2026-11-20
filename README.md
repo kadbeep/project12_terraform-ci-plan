@@ -6,3 +6,4 @@ GitHub Actions workflow that runs `terraform fmt`, `init`, `validate` and
 ## Local usage
     terraform init
     terraform plan
+
